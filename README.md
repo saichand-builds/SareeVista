@@ -6,6 +6,3 @@
 3. Run `npm run install:all`
 4. Run `npm run dev`
 
-## Demo Credentials
-- Customer: customer@demo.com / Demo@1234
-- Admin: admin@sarees.com / Demo@1234
